@@ -1,3 +1,8 @@
+### 课件下载
+git clone https://github.com/OkamotoSatoshi/airdrop-shell.git
+进入文件目录运行：
+npm install
+
 
 ### 前言
 前言讲述非常关键的课程学习方法，适合人群，课程的目标、解决哪些痛点等等...前言部分很关键
